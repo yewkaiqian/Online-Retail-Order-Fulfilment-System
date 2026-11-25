@@ -43,7 +43,7 @@ The database consists of 13 interconnected tables and incorporates Entity-Relati
 | `G010_LiewJiaMin.sql` | Payment management operations |
 | `G010_NguJingRong.sql` | Product and inventory management operations |
 | `G010_YewKaiQian.sql` | Shipment and employee management operations |
-| `Project_Report.pdf` | Detailed project documentation, ERD, EERD, business rules and data dictionary |
+| `Report.pdf` | Detailed project documentation, ERD, EERD, business rules and data dictionary |
 
 ## Contributors
 
